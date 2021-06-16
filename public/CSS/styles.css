@@ -1,0 +1,62 @@
+.bg-image{
+  width: 100%;
+  }
+
+.carousel-image{
+  height: 500px;
+  }
+
+.carousel{
+  margin: 2rem 10rem 0.8rem 10rem;
+  }
+
+.donation{
+  margin: 8rem 0 0 0;
+  text-align: center;
+  }
+
+
+
+.footer{
+  color: white;
+  background-color: #3C8DAD;
+  height: 6rem;
+  text-align: center;
+  margin: 6rem 0 0 0;
+  }
+
+.help{
+  text-align: center;
+  margin-top: 6rem;
+  }
+
+h4{
+  padding: 2rem;
+}
+
+img{
+  width: 30%;
+}
+
+.intro-para{
+  margin-top: 5rem;
+  padding: 5rem 2rem 0 0;
+  background-image: url('/h1bg.jpg');
+  background-repeat: no-repeat;
+  background-size: 60%;
+}
+
+.logo{
+  float: right;
+}
+.nav-item{
+  margin: 0 1rem;
+}
+.navbar{
+  background-color: #125D98;
+}
+
+.work{
+  margin-top: 6rem;
+  text-align: center;
+}
